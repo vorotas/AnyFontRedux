@@ -1,0 +1,6 @@
+## Interface: 80000
+## Version: @project-version@
+## Author: Vorotas
+## Title: AnyFontRedux
+
+AnyFont.lua
