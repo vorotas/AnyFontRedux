@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 90207
 ## Version: @project-version@
 ## Author: Vorotas
 ## Title: AnyFontRedux
