@@ -2,5 +2,6 @@
 ## Version: @project-version@
 ## Author: Vorotas
 ## Title: AnyFontRedux
+## SavedVariables: AnyFontReduxDB
 
 AnyFontRedux.lua
